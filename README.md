@@ -1,6 +1,6 @@
-# ```SELF-BOT```
+# ```TENZUL-BOT```
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
+<a href="https://github.com/dioooo-251/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphab0t/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphab0t?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphab0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphab0t?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphab0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphab0t?label=Watchers&color=blue&style=flat-square"></a>
@@ -28,7 +28,7 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
+- Owner number [Here](https://github.com/dioooo-251/Bot/blob/v15/settings.json#L1)
 - Owner name [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
 - Botname [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
 
